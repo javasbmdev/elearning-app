@@ -1,6 +1,15 @@
+ 
 Bug 122 
 ============
 lkjklj
 dklfjd
 kjlkdfjf
 ljd
+ 
+BUG 121
+=======
+lkjlkj
+jlkjl
+lkjkl
+// logic is pending few houres required tomplete
+ 
